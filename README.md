@@ -30,7 +30,7 @@ Materias que estoy cursando
 
 - Estructuras de Datos
 
-- Electiva II (Sistemas operativos)
+- Electiva I (Sistemas operativos)
 
 - Materia UNAHUR (Historia del rock nacional)
 
