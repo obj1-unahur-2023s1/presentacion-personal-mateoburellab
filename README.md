@@ -1,35 +1,11 @@
-![Logo UNAHUR](./assets/UNAHUR.png)
+<h2>Presentación</h2>
 
-Bienvenidos a
-# Programación con objetos I
+Me llamo Mateo Burella Barco, tengo 19 años, e ingresé a la Universidad en 2021.
 
-En esta materia aprenderán sobre la famosa POO _(OOP en inglés)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
+Me gusta mucho escuchar música, toco la guitarra y el piano. Me gustan las pastas y los gatos (los perros también).
 
-```
-object programacionConObjetos { 
-    method saludar() { 
-        return  "Bienvenidxs!" 
-    }
-}
-```
+Estoy emocionado por empezar a aprender sobre la Programación orientada a Objetos.
 
-## Datos de la cursada :book:
-* Modalidad Mixta
-* Horario comisión **turno noche**: Martes y Jueves 18hs.
-* Horario comisión **turno mañana**: Lunes y Jueves 8hs.
-* Este cuatrimestre los profesores somos Gerardo González, Lucas Spigariol y Hernán Coniglio
-* Además nos acompañan como colaboradores Valentino Chiappanni, Lucas Bonadeo, Matías Müller y Tobías Di Salvo.
+No sé qué más poner, así que voy a poner una foto de Messi.
 
-## Links importantes :monocle_face:
-- [x] [Página principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/1sZLzv_JN1kZeS35DMAUPCQhrWjenc_-VqbywLGje3B4/edit?usp=sharing) de clases.
-- [x] [Matricularse](https://discord.gg/dkTB8wff) y ver el canal de Discord.
-- [x] [Mumuki](https://mumuki.io/unahur-obj1)
-
-### Referencias Markdown 
-* [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
-
-* [Guía Ràpida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglés)_
-
-* [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
+![messi](https://statics.forbesargentina.com/2022/12/crop/63a1aa07f3f5c__822x822.webp)
